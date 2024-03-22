@@ -110,7 +110,7 @@ rouge2-F1: 0.3025
 rougeL-F1: 0.4153  
 
 ### Presentation
-- https://docs.google.com/presentation/d/1BKWkCq8ePh6_Oe5FFpUGNzDJVVoBG4wvsWzAb6MYbk4/edit?usp=sharing
+- ppt 폴더 참조
 
 ## etc
 
