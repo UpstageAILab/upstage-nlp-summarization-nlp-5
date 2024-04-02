@@ -81,12 +81,6 @@ Train Data 12457개, Valid Data 499개, Test Data 499개로 이루어져 있으�
 
 **GPT3.5 Api를 사용하여 데이터를 합성했습니다.** 위 그림과 같이 GPT에게 Instruction을 주고 학습데이터에서 샘플링한 5개의 대화문-요약문 쌍데이터를 예시로 보여준 뒤 질문으로 1개의 대화문을 입력해 요약문을 생성했습니다.  
 
-#### SAMSUM 데이터셋 활용
-![image](https://github.com/UpstageAILab/upstage-nlp-summarization-nlp-5/assets/42354230/514435f1-c572-4db3-af00-364e1a2013cd)
-![image](https://github.com/UpstageAILab/upstage-nlp-summarization-nlp-5/assets/42354230/15420921-d363-417e-97a3-2fa294559dbe)
-
-대회 데이터셋이 번역 데이터라는 점을 활용하여 **다른 영어 대화문 데이터셋을 한글로 번역**하여 학습 데이터셋으로 활용하였습니다. 해당 데이터셋이 Upstage에서 추최하는 대회이기에 **Solar Api**를 활용하여 번역을 진행하면 좋을 것이라고 판단해서 Solar Api를 활용해 번역을 진행하였습니다.
-
 ## 4. Modeling
 
 ### Model descrition
